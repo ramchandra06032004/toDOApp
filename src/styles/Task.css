@@ -1,0 +1,26 @@
+.taskCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 9vh;
+  width: 85%;
+  background-color: #e1e5f2;
+  border-radius: 1rem;
+  padding: 0 1rem;
+}
+.deleteBtn {
+  background-color: #00a6fb;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.submit {
+  background-color: #00a6fb;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}

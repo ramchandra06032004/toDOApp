@@ -1,0 +1,35 @@
+.addPage {
+  background-color: #fafafa;
+  background-image: url("../../assets//homeImage.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-height: 100vh;
+  overflow: hidden;
+}
+.addForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+.name {
+  height: 8vh;
+  width: 25vw;
+  background-color: #e1e5f2;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+}
+.date {
+  height: 8vh;
+  width: 25vw;
+  background-color: #e1e5f2;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0 1rem;
+}
